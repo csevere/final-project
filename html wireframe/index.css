@@ -60,7 +60,7 @@ video {
     width: auto;
     height: auto;
     z-index: -100;
-    transform: translateX(-1%) translateY(-87%);
+    transform: translateX(-1%) translateY(-90%);
 /*    transition: 1s opacity;*/
 }
 
@@ -552,7 +552,7 @@ li{
 	border-radius: 23px;
 	z-index: 3; 
 	top:-11em;
-	left: 2em;
+	left: -3em;
 }
 
 .scroll-btn .mouse > * {
